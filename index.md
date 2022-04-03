@@ -32,6 +32,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 <p><img src="/PW1b3BycPzQ.jpg" alt="" class="align-center"></p>
 <br><img src="/PW1b3BycPzQ.jpg" alt="" class="align-center"><br><br>
+<img src="https://github.com/chertoGUN/yas0subibu/blob/main/PW1b3BycPzQ.jpg" alt="" />
 
 <details><summary>CLICK ME</summary>
 <p>
