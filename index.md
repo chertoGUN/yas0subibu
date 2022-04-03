@@ -25,7 +25,7 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 
-[arr](https://github.com/chertoGUN/yas0subibu/blob/main/PW1b3BycPzQ.jpg)
+[ссылка на jpg](https://github.com/chertoGUN/yas0subibu/blob/main/PW1b3BycPzQ.jpg)
 
 
-![arr](https://github.com/chertoGUN/yas0subibu/blob/main/PW1b3BycPzQ.jpg)
+![](https://github.com/chertoGUN/yas0subibu/blob/main/PW1b3BycPzQ.jpg)
