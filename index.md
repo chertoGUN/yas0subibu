@@ -30,6 +30,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ![](https://github.com/chertoGUN/yas0subibu/blob/main/PW1b3BycPzQ.jpg)
 
+<p><img src="/PW1b3BycPzQ.jpg" alt="" class="align-center"></p>
 
 
 <details><summary>CLICK ME</summary>
@@ -43,8 +44,5 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
     ```
 
 </p>
-    
-    <p><img src="/PW1b3BycPzQ.jpg" alt="" class="align-center"></p>
-
 </details>
 
