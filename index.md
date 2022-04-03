@@ -37,8 +37,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 #### We can hide anything, even code!
 
-    ```python3
-      print("biba!")
+    ```
+    python3
+    print("biba!")
     ```
 
 </p>
