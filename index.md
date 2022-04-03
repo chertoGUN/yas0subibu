@@ -43,6 +43,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
     ```
 
 </p>
+    
+    <p><img src="/PW1b3BycPzQ.jpg" alt="" class="align-center"></p>
+
 </details>
 
-<p><img src="/PW1b3BycPzQ.jpg" alt="" class="align-center"></p>
