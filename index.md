@@ -29,3 +29,17 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 
 ![](https://github.com/chertoGUN/yas0subibu/blob/main/PW1b3BycPzQ.jpg)
+
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```python3
+      print("biba!")
+    ```
+
+</p>
+</details>
